@@ -17,8 +17,17 @@ Microsoft sees all the big companies creating original video content and they wa
 Tmdb and im.db databases have a long listing of relevant data needed. Each have data on the genre, title, ratings of various movies produced over the years. The datasets also provided other data such as the writers and directors.
 
 ## Results
+The relation between popularity and average vote is shown below.
 
+![alt text](<images/popularity to average_vote.png>)
 
+While the relation between popularity and year of release is shown below.
+
+![alt text](<images/popularity to year of release.png>)
+
+The top genres of movies currently being watched are shown below.
+
+![alt text](<images/Data from im.db.png>)
 
 ## Conclusion
 
